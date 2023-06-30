@@ -19,3 +19,5 @@ function returnsAnAnonymousFunction(){
         console.log("hi")
     })
 }
+
+returnsAnAnonymousFunction()
